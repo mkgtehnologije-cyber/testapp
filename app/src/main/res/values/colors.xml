@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Base Colors -->
+    <color name="electric_blue">#1BE7FF</color>
+    <color name="light_green">#6EEB83</color>
+    <color name="lemon_lime">#E4FF1A</color>
+    <color name="harvest_gold">#E8AA14</color>
+    <color name="giants_orange">#FF5714</color>
+
+    <!-- Semantic Mapping (Optional for Material Theme) -->
+    <color name="colorPrimary">#1BE7FF</color>          <!-- electric blue -->
+    <color name="colorPrimaryVariant">#6EEB83</color>   <!-- light green -->
+    <color name="colorSecondary">#E4FF1A</color>        <!-- lemon lime -->
+    <color name="colorSecondaryVariant">#E8AA14</color> <!-- harvest gold -->
+    <color name="colorAccent">#FF5714</color>           <!-- giants orange -->
 </resources>
