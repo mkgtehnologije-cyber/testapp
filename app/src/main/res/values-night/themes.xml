@@ -4,16 +4,15 @@
         <item name="colorPrimary">@color/electric_blue</item>
         <item name="colorPrimaryVariant">@color/light_green</item>
         <item name="colorOnPrimary">@android:color/black</item>
-
         <!-- Secondary brand color -->
         <item name="colorSecondary">@color/lemon_lime</item>
         <item name="colorSecondaryVariant">@color/harvest_gold</item>
         <item name="colorOnSecondary">@android:color/black</item>
-
         <!-- Accent color -->
         <item name="colorAccent">@color/giants_orange</item>
-
         <!-- Customize other theme attributes as needed -->
         <item name="android:statusBarColor">@color/electric_blue</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
 </resources>
